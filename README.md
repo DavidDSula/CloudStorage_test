@@ -24,4 +24,4 @@ npm install
 ```
 npm run serve
 ```
-3. Фронтэд работает на locallhost:3001 
+
